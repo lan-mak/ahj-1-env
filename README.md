@@ -1,6 +1,7 @@
-**Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
-
+[![Build status](https://ci.appveyor.com/api/projects/status/aeb1da4t1xxagwl3?svg=true)](https://ci.appveyor.com/project/lan-mak/ahj-1-env)
 ### Continuous Deployment
+
+**Deployment:** https://lan-mak.github.io/ahj-1-env/
 
 #### Описание
 
@@ -8,6 +9,3 @@
 
 В качестве шаблона для развёртывания используйте [проект с лекции](https://github.com/netology-code/ahj-code/tree/master/env).
 
-Не забудьте поставить бейджик со статусом в `README.md`.
-
-**В качестве результата пришлите проверяющему ссылку на ваш GitHub-проект.**
